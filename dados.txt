@@ -2,7 +2,7 @@ Dados do aluno
 
 -Primeiro Nome: Alex 
 -Profissão: Analista de Sistemas
--Cidade: Americana
+-Cidade: Americana-SP
 -O que faz nas horas vaga: Musculação / Corrida.. e estudo 
 -Feedback sobre o curso Qualidade de Software: Bom
 -Feedback sobre a plataforma de estudo da EBAC: Boa
