@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Renan Mitsuo Oka
+-Profissão: Gerente de projetos
+-Cidade: São Paulo
+-O que faz nas horas vaga: Curso QA na ebac
+-Feedback sobre o curso Qualidade de Software: O Curso esta indo de acordo 
+com o esperado.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma simples de operar.
 
 Obrigado!!!
 
